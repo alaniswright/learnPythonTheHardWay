@@ -1,2 +1,2 @@
 # learnPythonTheHardWay
-# Some comments in my new branch
+My efforts to learn Python. Watch this space...
